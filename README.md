@@ -1,4 +1,4 @@
-## Hi there 👋
+## Get The Fuck Out
 
 <br>
 
