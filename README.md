@@ -1,4 +1,4 @@
-## Get Fuck Out
+## Get The Fuck Out
 
 ```python
 class Naku:
