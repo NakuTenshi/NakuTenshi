@@ -6,7 +6,7 @@ class Naku:
         self.name = "Naku Tenshi"
         self.age = 19
         self.friends = None
-        self.pronouns = "Him/he"
+        self.pronouns = "he/Him"
         self.role = "Programmer & hacker"
         self.languages = ["Python", "Bash", "JavaScript", "C++"]
         self.hobbies = ["Hacking", "Programming" ,"Listening to music", "Gaming"]
