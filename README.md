@@ -1,6 +1,6 @@
 ## Get The Fuck Out
 
-<img src="./test.jpg" height="150" width="100%">
+<img src="./test.jpg" height="150" width="80%">
 
 
 
