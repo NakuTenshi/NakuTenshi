@@ -9,7 +9,7 @@ class Naku:
         self.pronouns = "he/Him"
         self.role = "Programmer & hacker"
         self.languages = ["Python", "Bash", "JavaScript", "C++"]
-        self.hobbies = ["Hacking", "Programming" ,"Listening to Music","Coffee" ,"Gaming"]
+        self.hobbies = ["Hacking", "Programming", "Listening to Music", "Coffee", "Gaming"]
         self.favoriteProjects = ["wbf", "JSHound", "RoboBack", "AnimeAlly", "and my stupids websites"]
         self.socials = {
             "Github" : "https://github.com/nakutenshi",
