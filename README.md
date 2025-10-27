@@ -1,6 +1,3 @@
-## Get The Fuck Out
-
-<img src="./test.jpg" height="150" width="80%">
-
-
-
+<p align="center">
+  <img src="./test.jpg" alt="banner" height="150" width="80%">
+</p>
