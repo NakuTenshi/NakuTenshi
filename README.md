@@ -18,12 +18,9 @@ class Naku:
             "Telegram's Channel": "https://t.me/nakutenshii"
         }
 
-
     def message(self):
         return "Fuck This People"
     
-
 me = Naku()
 me.message()
-
 ```
