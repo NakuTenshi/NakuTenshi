@@ -18,6 +18,7 @@ class Naku:
         }
 
     def message(self):
+        self.secret = "56b7bde84beeca9f0471a48df6b4b1d1"
         return "Fuck This People"
     
 me = Naku()
